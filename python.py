@@ -9,3 +9,4 @@ if __name__ == "__main__":
     print(f"The sum of {num1} and {num2} is {result}")
 
     print("second print statement") # Added this line
+print("new line added')
